@@ -5,12 +5,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asackmann&label=Profile%20views&color=0e75b6&style=flat" alt="asackmann" /> </p>
 
-<h3 align="left">Contact</h3>
-<p align="left">
-  - 📫 How to reach me: asack@live.com.ar
-</p>
 
-
+  ### 📫 Reach me at  
+ [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/asackmann/)
+  
+  Have a question or want to work together?
+  ________________________
+  Email: asack@live.com.ar
+  
+  
 <!--
 **asackmann/asackmann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
