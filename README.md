@@ -7,7 +7,7 @@
 
 
   ### 📫 Reach me at  
- [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/asackmann/)
+ ![Linkedin](https://i.stack.imgur.com/gVE0j.png) [in/asackmann](https://www.linkedin.com/in/asackmann/)
   
   Have a question or want to work together?
   ________________________
